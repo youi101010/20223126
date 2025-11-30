@@ -117,7 +117,8 @@ KiB Mem: 총메모리, 사용중, 여유공간
 - -18 (SIGCONT): 재개
 
 #### 옵션
-- kill -l : 사용가능한 시그널 목록 보기
+- kill -l : 사용가능한 시그널 목록 보기 <br> <img width="371" height="136" alt="image" src="https://github.com/user-attachments/assets/57df6faf-9a87-4551-82b9-8a9581dfa1de" />
+
 
 
 
